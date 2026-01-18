@@ -399,4 +399,4 @@ Project_1_Employee_Attrition/
 
 ---
 
-**Part of:** [Analytics Portfolio - Dual Projects]() 
+**Part of:** [Analytics Portfolio - Dual Projects](README.md) 
