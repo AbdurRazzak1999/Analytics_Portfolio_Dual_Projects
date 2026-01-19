@@ -368,7 +368,7 @@ The model is well-suited for **monitoring overall customer satisfaction and posi
 
 ### **High-Priority Actions (🔴)**
 
-#### 1. Improve Room & Sleep Quality 🛏️
+#### 1. Improve Room & Sleep Quality 
 
 **Issue:** "bed" and "night" appear frequently in negative keywords
 
@@ -390,7 +390,7 @@ The model is well-suited for **monitoring overall customer satisfaction and posi
 
 ---
 
-#### 2. Optimize Check-In/Check-Out Process ⏱️
+#### 2. Optimize Check-In/Check-Out Process
 
 **Issue:** "check" appears frequently in negative context
 
@@ -413,7 +413,7 @@ The model is well-suited for **monitoring overall customer satisfaction and posi
 
 ---
 
-#### 3. Standardize Staff Service Quality 🤝
+#### 3. Standardize Staff Service Quality 
 
 **Issue:** "staff" appears in both positive and negative reviews (inconsistency)
 
@@ -438,7 +438,7 @@ The model is well-suited for **monitoring overall customer satisfaction and posi
 
 ### **Medium-Priority Actions (🟡)**
 
-#### 1. Preserve & Promote Core Strengths ✅
+#### 1. Preserve & Promote Core Strengths 
 
 **Strengths:** "clean", "breakfast", "location" receive consistent positive feedback
 
@@ -455,7 +455,7 @@ The model is well-suited for **monitoring overall customer satisfaction and posi
 
 ---
 
-#### 2. Leverage Location & Environment 📍
+#### 2. Leverage Location & Environment 
 
 **Strength:** "location" mentioned positively frequently
 
@@ -474,7 +474,7 @@ The model is well-suited for **monitoring overall customer satisfaction and posi
 
 ### **Ongoing Initiatives (🟢)**
 
-#### 1. Implement Real-Time Sentiment Monitoring 📊
+#### 1. Implement Real-Time Sentiment Monitoring 
 
 **Action:** Build automated sentiment tracking system
 
@@ -491,7 +491,7 @@ The model is well-suited for **monitoring overall customer satisfaction and posi
 
 ---
 
-#### 2. Target Neutral Experiences 😐
+#### 2. Target Neutral Experiences 
 
 **Issue:** Neutral reviews (3-star ratings) are unstable and easily become negative
 
